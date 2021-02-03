@@ -2,8 +2,7 @@
 
 A graph tool built in python to view and edit graph
 
-![graph](https://github.com/fluffyP4nd4/graph/blob/main/Screenshot.png)
-
+![](https://github.com/fluffyP4nd4/graph/blob/main/Screenshot.png)
 
 ## installation 
 ```
@@ -13,6 +12,16 @@ install dependencies
 ```
 pip install tkinter
 ```
+```
+pip install pandas
+```
+```
+pip install matplotlib
+```
+```
+pip install csv
+```
+
 
 ## Run the program
 Change into graph directory using command line and 
