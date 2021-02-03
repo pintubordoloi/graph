@@ -2,9 +2,6 @@
 
 A graph tool built in python to view and edit graph
 
-![graph](https://github.com/fluffyP4nd4/graph/blob/main/Screenshot.png)
-
-
 ## installation 
 ```
 git clone https://github.com/pintubordoloi/graph.git
