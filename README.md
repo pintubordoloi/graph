@@ -29,4 +29,4 @@ run
 ```
 python main.py
 ```
-
+an click open file to open the test file zillow.csv
