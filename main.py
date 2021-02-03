@@ -58,7 +58,7 @@ def display_data(frame,name):
             #since adding row+1 at the end of the second for loop 
             #getting indentation error 
     		tot_row=tot_row+1
-    		tot_col=0;
+    		tot_col=0
             #taking one value of each row at a time     		
     		for data in row:
     			e = Entry(frame, width=8,fg='blue',font=('Ariel',11,'italic'))
